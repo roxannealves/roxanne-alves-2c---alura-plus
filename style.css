@@ -1,7 +1,21 @@
+
 .botao{
-    background-color: blueviolet;
+    background-color: rgb(176, 131, 218);
     color: antiquewhite;
     text-decoration: none;
     padding: 10px;
     border-radius: 20px;
+}
+body{
+    text-align: center;
+    background-color:darkorchid;
+}
+.cabecalho{
+    background-color: rgb(129, 10, 189);
+}
+.cabecalho-titulo{
+    font-size: 36px;
+    font-weight: 500;
+    padding: 12px;
+    text-align: center;
 }
